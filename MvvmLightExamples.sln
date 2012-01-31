@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmLightExamples", "HelloWorld\HelloWorld.csproj", "{AFECB5EF-3371-4D1C-A113-CA55AC23C51A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{AFECB5EF-3371-4D1C-A113-CA55AC23C51A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoViews", "TwoViews\TwoViews.csproj", "{CA7500ED-96DA-490B-BFF4-DAFF1207F752}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{AFECB5EF-3371-4D1C-A113-CA55AC23C51A}.Debug|x86.Build.0 = Debug|x86
 		{AFECB5EF-3371-4D1C-A113-CA55AC23C51A}.Release|x86.ActiveCfg = Release|x86
 		{AFECB5EF-3371-4D1C-A113-CA55AC23C51A}.Release|x86.Build.0 = Release|x86
+		{CA7500ED-96DA-490B-BFF4-DAFF1207F752}.Debug|x86.ActiveCfg = Debug|x86
+		{CA7500ED-96DA-490B-BFF4-DAFF1207F752}.Debug|x86.Build.0 = Debug|x86
+		{CA7500ED-96DA-490B-BFF4-DAFF1207F752}.Release|x86.ActiveCfg = Release|x86
+		{CA7500ED-96DA-490B-BFF4-DAFF1207F752}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
