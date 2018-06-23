@@ -5,9 +5,9 @@ namespace TwoViews.Views
     /// <summary>
     /// Nothing to do here.  Everything should be in the XAML.
     /// </summary>
-    public partial class SecondView : UserControl
+    public partial class FirstView : UserControl
     {
-        public SecondView()
+        public FirstView()
         {
             InitializeComponent();
         }
